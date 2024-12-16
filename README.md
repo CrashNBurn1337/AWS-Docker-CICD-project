@@ -1,7 +1,7 @@
 # AWS-Docker-CICD-project
 A Project made to automate creation of instance on AWS and configuring docker with a website hosted on ngix using github CI/CD pipeline
 
-<img src="asset/workflow.png" alt="AWS workflow" width="300">
+<img src="asset/workflow.png" alt="AWS workflow" width="500">
 
 # Need to add your public and private key:-
 1. my-key-pair
@@ -36,7 +36,7 @@ The deployment includes the following components:
 5. **GitHub Actions**: Automates deployment with a CI/CD pipeline triggered by code updates.
 
 
-<img src="asset/automated_cloud_deployment_architecture.jpg" alt="AWS Architecture" width="300">
+<img src="asset/automated_cloud_deployment_architecture.jpg" alt="AWS Architecture2" width="500">
 
 ## Technologies Used
 - **AWS**: Cloud provider for EC2 instance.
