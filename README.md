@@ -1,12 +1,11 @@
 # AWS-Docker-CICD-project
 A Project made to automate creation of instance on AWS and configuring docker with a website hosted on ngix using github CI/CD pipeline
 
-
-![AWS Architecture](asset/automated_cloud_deployment_architecture.jpg)
+<img src="asset/automated_cloud_deployment_architecture.jpg" alt="AWS Architecture" width="600">
 
 # Need to add your public and private key:-
-my-key-pair
-my-key-pair.pub
+1. my-key-pair
+2. my-key-pair.pub
 
 # AWS Terraform Ansible Docker CI/CD Deployment
 
