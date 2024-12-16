@@ -36,7 +36,7 @@ The deployment includes the following components:
 5. **GitHub Actions**: Automates deployment with a CI/CD pipeline triggered by code updates.
 
 
-<img src="asset/automated_cloud_deployment_architecture.jpg2.png" alt="AWS Architecture2" width="500">
+<img src="asset/automated_cloud_deployment_architecture.jpg" alt="AWS Architecture2" width="450">
 
 ## Technologies Used
 - **AWS**: Cloud provider for EC2 instance.
