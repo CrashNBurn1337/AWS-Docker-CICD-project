@@ -1,6 +1,9 @@
 # AWS-Docker-CICD-project
 A Project made to automate creation of instance on AWS and configuring docker with a website hosted on ngix using github CI/CD pipeline
 
+
+https://github.com/CrashNBurn1337/AWS-Docker-CICD-project/blob/main/asset/automated_cloud_deployment_architecture.jpg
+
 # Need to add your public and private key:-
 my-key-pair
 my-key-pair.pub
